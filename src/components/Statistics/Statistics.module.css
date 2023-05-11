@@ -1,0 +1,15 @@
+.statisticContainer {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  width: 700px;
+  padding: 0;
+  margin: auto;
+  color: #030303;
+}
+
+.statisticName {
+    font-size: 15px;
+    font-weight: bold;
+}

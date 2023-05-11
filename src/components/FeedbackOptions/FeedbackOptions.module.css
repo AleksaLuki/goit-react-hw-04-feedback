@@ -1,0 +1,18 @@
+.container {
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+  .fbBtn {
+    color: #030303;
+    outline: none;
+    padding: 10px 20px;
+    font-size: 15px;
+    border-radius: 4px;
+    background: #c1e0f3;
+    border: 1px solid #e8e8e8;
+    text-transform: capitalize;
+  }
